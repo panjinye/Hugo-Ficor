@@ -114,6 +114,17 @@ header {
   justify-content: space-between;
   margin-top: 32px;
   flex-wrap: wrap;
+  width: 100%;
+}
+
+/* 确保header-items有足够空间显示 */
+.header-items {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  margin-top: 15px;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .header-title {

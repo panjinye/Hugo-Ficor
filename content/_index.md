@@ -4,7 +4,7 @@ profileImage: "images/img.jpg"
 name: "Lawpan"
 description: "探索技术与生活的交汇点"
 socials:
-  - url: "https://github.com/lawpan"
+  - url: "https://github.com/ficorcc"
     icon: "fab fa-github"
 
 links:
