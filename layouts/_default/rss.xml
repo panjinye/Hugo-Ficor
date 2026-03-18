@@ -16,7 +16,7 @@
     <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} | {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
     <description>{{ .Site.Params.meta.description | default .Site.Params.description | default .Summary | plainify | htmlUnescape }}</description>
-    <language>{{ site.Language.LanguageCode }}</language>{{ with .Site.Params.author.email }}
+    <language>{{ .Site.LanguageCode }}</language>{{ with .Site.Params.author.email }}
     <managingEditor>{{.}}{{ with $.Site.Params.author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Params.author.email }}
     <webMaster>{{.}}{{ with $.Site.Params.author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
     <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
