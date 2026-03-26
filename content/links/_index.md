@@ -2,12 +2,6 @@
 title: "Links"
 date: 2025-01-01
 layout: "list"
-menu:
-  main:
-    identifier: links
-    name: 友链
-    url: /links/
-    weight: 4
 ---
 
 # 朋友们
