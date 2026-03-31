@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>同学 | Lawpan</title>
+    <link>http://localhost:63922/tags/%E5%90%8C%E5%AD%A6/</link>
+    <description>探索技术与生活的交汇点</description>
+    <language>zh-cn</language>
+    <copyright>Lawpan</copyright>
+    
+    <atom:link href="http://localhost:63922/tags/%E5%90%8C%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>可怜的动物</title>
+      <link>http://localhost:63922/posts/%E5%8F%AF%E6%80%9C%E7%9A%84%E5%8A%A8%E7%89%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:63922/posts/%E5%8F%AF%E6%80%9C%E7%9A%84%E5%8A%A8%E7%89%A9/</guid>
+      <description>上周五，高中同学一起聚了一下，去的是其中一个朋友新落成的小院子。
+一座小房子，一片院子，一个水塘，仅此而已，却是城市人难得的奢侈。有动物奔跑，有孩子欢笑。院子里有几条狗，车停稳一开车门，所有的狗子都跑过来了，着实吓了我一跳。他说狗子们只是以为来人给它们带了好吃的。
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
