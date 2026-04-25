@@ -2,22 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 | Lawpan</title>
-    <link>http://localhost:63922/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <link>http://localhost:50539/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>探索技术与生活的交汇点</description>
     <language>zh-cn</language>
     <copyright>Lawpan</copyright>
-    <lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="http://localhost:63922/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50539/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>4月开始</title>
+      <link>http://localhost:50539/posts/4%E6%9C%88%E5%BC%80%E5%A7%8B/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50539/posts/4%E6%9C%88%E5%BC%80%E5%A7%8B/</guid>
+      <description> 春天 春天真的已经来了，一周前的小树，还是嫩芽尖尖。一周后，已经是满树绿叶。满满的绿色，赏心悦目，煞是好看。 前两天，晚上在家门口聊天，母亲看着门口的小榆树，说这榆钱再不吃就老了，不好吃了。于是开始找工具捋榆钱，只要能够得着的，每一个枝条都捋的干干净净，弄了满满一笸箩。上了年纪，总是不希望浪费东西。今天早上，母亲把这几天淘洗干净的榆钱，做成了忆苦思甜的榆钱饭，要好好感受一下这春天的馈赠。 这一段是新加的，简单科普，百科一下 榆钱具有多方面的价值。其嫩果翅（即榆钱）富含蛋白质、脂肪、膳食纤维及多种维生素，口感清甜柔嫩，是中国北方传统的春季野菜，可蒸食、做粥或做馅。榆钱还具有健脾安神、止咳化痰、清热利水的功效，可治食欲不振，有清热解毒、杀虫消肿的作用。 ——百度百科 2.LiMhy 最近又在折腾博客的路上走着，体验了Jason自己写的博客程序，很轻量，加载速度很快。Jason帮我写通了图床的接口，文章中添加的图片可以直接同步到图床了。 只有这个聚合推荐，时好时坏，让群里的人都跟着操心。还是没有变通畅的迹象，我也不明白，也不想弄。 我自己用AI改了一部分，不尽如人意。看着群里的大佬自己写主题写插件，很轻松的就实现了。奈何，咱不是那块料啊，啥也不会，哈哈。 3.动物 《可怜的动物》没带图片，因为我不太想把它们的囧态发出来。这里贴几张，大家将就着看一下吧。 老虎 鸵鸟 雄狮 猴子 猴子 骆驼 4.清明 明天是清明假期了，第一件事肯定是要回老家，扫墓添土。我们这里上坟添土是要放鞭炮的。今天好多放鞭炮的，感觉一直就没停过。我们这有七八不上坟的说法，农历逢七逢八不上坟，不办白事。所以就都挤到今天来了。但是都是老说法了，实在没办法的也不讲究这些。今天一直晴天，很好的天气。刚才突然开始刮大风，这会外面开始下起雨了。真是每年都要应这句“清明时节雨纷纷”啊。</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>可怜的动物</title>
+      <link>http://localhost:50539/posts/%E5%8F%AF%E6%80%9C%E7%9A%84%E5%8A%A8%E7%89%A9/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50539/posts/%E5%8F%AF%E6%80%9C%E7%9A%84%E5%8A%A8%E7%89%A9/</guid>
+      <description>上周五，高中同学一起聚了一下，去的是其中一个朋友新落成的小院子。
+一座小房子，一片院子，一个水塘，仅此而已，却是城市人难得的奢侈。有动物奔跑，有孩子欢笑。院子里有几条狗，车停稳一开车门，所有的狗子都跑过来了，着实吓了我一跳。他说狗子们只是以为来人给它们带了好吃的。
+</description>
+    </item>
     
     
     
     <item>
       <title>关于对跖点</title>
-      <link>http://localhost:63922/posts/%E5%85%B3%E4%BA%8E%E5%AF%B9%E8%B7%96%E7%82%B9/</link>
+      <link>http://localhost:50539/posts/%E5%85%B3%E4%BA%8E%E5%AF%B9%E8%B7%96%E7%82%B9/</link>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:63922/posts/%E5%85%B3%E4%BA%8E%E5%AF%B9%E8%B7%96%E7%82%B9/</guid>
+      <guid>http://localhost:50539/posts/%E5%85%B3%E4%BA%8E%E5%AF%B9%E8%B7%96%E7%82%B9/</guid>
       <description> 对跖点是一个地理上的概念，是地球同一直径两端的点。两点经度相差180°，纬度数值相等且南北半球相反，纬度相同分南北，经度互补分东西，相距约20000千米。对跖点具有地方时相差12小时、季节相反的时空特性。
 </description>
     </item>
@@ -26,10 +50,10 @@
     
     <item>
       <title>静态博客之路</title>
-      <link>http://localhost:63922/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</link>
+      <link>http://localhost:50539/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</link>
       <pubDate>Sat, 07 Feb 2026 21:37:00 +0800</pubDate>
       
-      <guid>http://localhost:63922/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</guid>
+      <guid>http://localhost:50539/posts/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B9%8B%E8%B7%AF/</guid>
       <description>最近一直在折腾静态博客，鉴于自身性格原因，有点小小的强迫症，把所有的能找到的程序全部试了一遍，从Hexo，Hugo到最后确定了Astro。中间一些小众一点的静态动态博客基本上全部试了个遍。最终敲定了用Astro来搭建自己的博客。
 </description>
     </item>
@@ -38,10 +62,10 @@
     
     <item>
       <title>我的第一篇文章</title>
-      <link>http://localhost:63922/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <link>http://localhost:50539/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:63922/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <guid>http://localhost:50539/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
       <description>这是我的第一篇Hugo博客的文章，看看自己成没成功
 经过近20次的实验和推倒重来，终于是自己显示了，整出来了
 对于我来说，这是一个小小的里程碑吧，由于我没有一点的基础
@@ -53,10 +77,10 @@
     
     <item>
       <title>坚果云 x Obsidian 官方同步插件</title>
-      <link>http://localhost:63922/posts/%E5%9D%9A%E6%9E%9C%E4%BA%91-x-obsidian-%E5%AE%98%E6%96%B9%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/</link>
+      <link>http://localhost:50539/posts/%E5%9D%9A%E6%9E%9C%E4%BA%91-x-obsidian-%E5%AE%98%E6%96%B9%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/</link>
       <pubDate>Thu, 15 Jan 2026 15:50:18 +0800</pubDate>
       
-      <guid>http://localhost:63922/posts/%E5%9D%9A%E6%9E%9C%E4%BA%91-x-obsidian-%E5%AE%98%E6%96%B9%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/</guid>
+      <guid>http://localhost:50539/posts/%E5%9D%9A%E6%9E%9C%E4%BA%91-x-obsidian-%E5%AE%98%E6%96%B9%E5%90%8C%E6%AD%A5%E6%8F%92%E4%BB%B6/</guid>
       <description>新的一年已经过去半个月了，好久没更新了，也是因为最近一直没有什么值得记录的。
 最近一直在折腾手头的工具，也一直在准备写一篇”技术“类的文章，分享一下。只是一直没行动。
 </description>
@@ -66,10 +90,10 @@
     
     <item>
       <title>2025年终总结</title>
-      <link>http://localhost:63922/posts/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+      <link>http://localhost:50539/posts/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:63922/posts/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+      <guid>http://localhost:50539/posts/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
       <description>还有不到 4 个小时，2025 年就过去了，迎来新新的 2026 年。
 每天看着订阅里全是各种花样的 2025 年终总结，感觉大家的生活真是各有各的丰富多彩，光鲜亮丽。
 实在是羡慕。今天上午阴天有风，天尤其的冷，终于给 2025 画上了句号。
@@ -80,24 +104,11 @@
     
     <item>
       <title>网站</title>
-      <link>http://localhost:63922/posts/%E7%BD%91%E7%AB%99/</link>
+      <link>http://localhost:50539/posts/%E7%BD%91%E7%AB%99/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:63922/posts/%E7%BD%91%E7%AB%99/</guid>
+      <guid>http://localhost:50539/posts/%E7%BD%91%E7%AB%99/</guid>
       <description>最近把网站又重新拾起来，空闲时间折腾备案，折腾主题，到处的逛别人的网站，找途径恢复之前用的东西，其实到今天总结一下，大概率是自己老了吧，想找回年轻时候的那点乐趣和回忆。
-</description>
-    </item>
-    
-    
-    
-    <item>
-      <title>可怜的动物</title>
-      <link>http://localhost:63922/posts/%E5%8F%AF%E6%80%9C%E7%9A%84%E5%8A%A8%E7%89%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:63922/posts/%E5%8F%AF%E6%80%9C%E7%9A%84%E5%8A%A8%E7%89%A9/</guid>
-      <description>上周五，高中同学一起聚了一下，去的是其中一个朋友新落成的小院子。
-一座小房子，一片院子，一个水塘，仅此而已，却是城市人难得的奢侈。有动物奔跑，有孩子欢笑。院子里有几条狗，车停稳一开车门，所有的狗子都跑过来了，着实吓了我一跳。他说狗子们只是以为来人给它们带了好吃的。
 </description>
     </item>
     
